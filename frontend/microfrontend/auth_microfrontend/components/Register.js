@@ -13,6 +13,7 @@ function Register ({ onRegister }){
     }
     onRegister(userData);
   }
+
   return (
     <div className="auth-form">
       <form className="auth-form__form" onSubmit={handleSubmit}>
