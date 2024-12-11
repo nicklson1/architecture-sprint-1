@@ -19,6 +19,10 @@
 В данный микрофронт были вынесены компоненты "[EditAvatarPopup.js](microfrontend/profile_microfrontend/components/EditAvatarPopup.js)" и "[EditProfilePopup.js](microfrontend/profile_microfrontend/components/EditProfilePopup.js)" , а так же файлы связанные с ними файлы css и api.js, где хранятся методы обращения по апи.
 
 
+### Задание 2
+https://app.diagrams.net/?title=arch_template_task2.drawio#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1jIt4tUbnX7eo8IQLBB91P-9H0YQQkv7s%26export%3Ddownload
+###
+
 
 
 ## Для запуска приложения
