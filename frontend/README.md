@@ -20,7 +20,7 @@
 
 
 ### Задание 2
-https://app.diagrams.net/?title=arch_template_task2.drawio#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1jIt4tUbnX7eo8IQLBB91P-9H0YQQkv7s%26export%3Ddownload
+https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=https%3A%2F%2Fapp.diagrams.net%2F%3Ftitle%3Darch_template_task2.drawio%23G1jIt4tUbnX7eo8IQLBB91P-9H0YQQkv7s%23%257B%2522pageId%2522%253A%2522BleSmaJVXqo2yb7Co1eL%2522%257D&layers=1&nav=1&title=arch_template_task2.drawio#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1jIt4tUbnX7eo8IQLBB91P-9H0YQQkv7s%26export%3Ddownload
 ###
 
 
